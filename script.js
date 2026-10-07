@@ -1,10 +1,10 @@
 // ======================================================
 // CUSTOMIZE YOUR WEBSITE HERE
 // ======================================================
-const HER_USERNAME = "HER_INSTAGRAM_ID"; // Change to her Instagram ID or nickname
-const CUSTOM_PASSWORD = "YOUR_CUSTOM_PASSWORD"; // Change to your custom secret password
-const HER_NAME = "My Love";
-const YOUR_NAME = "My Name";
+const HER_USERNAME = "laisa_xavier_"; // Change to her Instagram ID or nickname
+const CUSTOM_PASSWORD = "_solu_voi_"; // Change to your custom secret password
+const HER_NAME = "LAISA BABU";
+const YOUR_NAME = "SOLU VOI";
 const MAIN_TITLE = "Almost One Year Together Through College ❤️";
 const MAIN_SUBTITLE = "A collection of moments, memories, smiles, and everything in between.";
 
