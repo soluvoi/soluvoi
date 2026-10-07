@@ -1,8 +1,8 @@
 // ======================================================
 // CUSTOMIZE YOUR WEBSITE HERE
 // ======================================================
-const HER_USERNAME = "laisa_xavier_"; // Change to her Instagram ID or nickname
-const CUSTOM_PASSWORD = "_solu_voi_"; // Change to your custom secret password
+const HER_USERNAME = "LAISA"; // Change to her Instagram ID or nickname
+const CUSTOM_PASSWORD = "SHAILENDRA"; // Change to your custom secret password
 const HER_NAME = "LAISA BABU";
 const YOUR_NAME = "SOLU VOI";
 const MAIN_TITLE = "Almost One Year Together Through College ❤️";
